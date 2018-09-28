@@ -1,0 +1,35 @@
+.board-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.kanban {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  border: 1px solid black;
+  height: 500px;
+  width: 200px;
+}
+
+.kanban-title {
+  width: 100%;
+  text-align: center;
+}
+
+.task {
+  border: 1px solid green;
+  background-color: greenyellow;
+  height: 60px;
+  margin: 0.5em 1em;
+  line-height: 60px;
+  text-align: center;
+}
+
+.task.done {
+  background-color: red;
+}
+
+.add-task {
+  text-align: center;
+}
