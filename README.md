@@ -1,7 +1,7 @@
 # kanban-mock
 Created with CodeSandbox
 
-[Live Demo](https://38py9kv935.codesandbox.io/)
+[Live Demo](https://7zx321jm1.codesandbox.io/)
 
 > Plain javascript, html and css mock
 
